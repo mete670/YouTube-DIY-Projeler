@@ -3,7 +3,7 @@
 #define trigPin 7
 #define buzzerPin 8
 
-int maximumRange = 50;
+int maximumRange = 90;
 int minimumRange = 0;
 
 
